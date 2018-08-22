@@ -20,38 +20,38 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > * `pwd` - show current working directory path 
-* `mkdir` - creating a directory
-* `rm -r DIRECTORY` deleting a directory
-* (`touch FILENAME.txt`) - creating a file using `touch` command
-* `rm` - deleting a file
-* `mv NEWNAME OLDNAME` - renaming a file
-* `ls -a` - listing hidden files
-* `cp DIRECTORY/SOURCEFILE.txt NEWDIRECTORY/` - copying a file from one directory to another
-* `cd` - switches you into the directory you specify
-* `cp * DIRECTORY` - selects all files in a directory
-* `mv FILE.txt DIRECTORY/` - moves a file from one directory to another
+>>* `pwd` - show current working directory path
+>>* `mkdir` - creating a directory
+>>* `rm -r DIRECTORY` deleting a directory
+>>* (`touch FILENAME.txt`) - creating a file using `touch` command
+>>* `rm` - deleting a file
+>>* `mv NEWNAME OLDNAME` - renaming a file
+>>* `ls -a` - listing hidden files
+>>* `cp DIRECTORY/SOURCEFILE.txt NEWDIRECTORY/` - copying a file from one directory to another
+>>* `cd` - switches you into the directory you specify
+>>* `cp * DIRECTORY` - selects all files in a directory
+>>* `mv FILE.txt DIRECTORY/` - moves a file from one directory to another
 
 ---
 
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`
-`ls -a`
-`ls -l`
+`ls`  
+`ls -a`  
+`ls -l`  
 `ls -lh`  
 `ls -lah`  
-`ls -t`
-`ls -Glp`  
+`ls -t`  
+`ls -Glp` 
 
-> > `ls` - lists all files and directories in the working directory
-`ls -a` - lists all contents, including hidden files and directories
-`ls -l` - lists all contents of a directory in long format
-`ls -lh` - lists all contents of a directory in long format with human readable sizes
-`ls -lah` - lists all contents of a directory in long format with human readable sizes, including hidden files and dictionaries
-`ls -t` - order files and directories by the time they were last modified
-`ls -Glp` - doesn't display group, lists long format, and displays '/' after dictionaries 
+>>`ls` - lists all files and directories in the working directory  
+>>`ls -a` - lists all contents, including hidden files and directories  
+>>`ls -l` - lists all contents of a directory in long format  
+>>`ls -lh` - lists all contents of a directory in long format with human readable sizes  
+>>`ls -lah` - lists all contents of a directory in long format with human readable sizes, including hidden files and dictionaries  
+>>`ls -t` - order files and directories by the time they were last modified  
+>>`ls -Glp` - doesn't display group, lists long format, and displays '/' after dictionaries  
 
 ---
 
@@ -59,11 +59,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > * `ls -d` Displays only directories
-* `ls -m` - Displays the names as a comma-separated list
-* `ls -R` - Displays subdirectories as well
-* `ls -x` - Displays files as rows across the screen
-* `ls -1` - Displays each entry on a line
+>>* `ls -d` Displays only directories
+>>* `ls -m` - Displays the names as a comma-separated list
+>>* `ls -R` - Displays subdirectories as well
+>>* `ls -x` - Displays files as rows across the screen
+>>* `ls -1` - Displays each entry on a line
 
 ---
 
