@@ -96,7 +96,7 @@ How do frequentist and Bayesian statistics compare?
 >> Frequentist statistics have a "true mean" that is a singular value while Bayesian does not (the true mean falls in a 
 >> range). This is because frequentist statistics don't assign means to unknown values, only to values that will give a 
 >> guarateed probability over time (for example, if I flip a coin 1,000,000,000 times, I will get 50% heads, 50% tails, so
->> the probability of flipping a coin and getting heads is 50%. Conversely, in Bayesian statistics probabilty can be used for >> a non repeatable event.
+>> the probability of flipping a coin and getting heads is 50%. Conversely, in Bayesian statistics probabilty can be used for a non repeatable event.
 
 ---
 
